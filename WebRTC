@@ -1,0 +1,27 @@
+Web RTC 
+—————
+
+Introduction
+——————
+
+	* Is an API definition
+	* That supports applications like
+		* Voice calling
+		* Video calling
+		* P2P File sharing
+	* This API is supposed to be implemented by web browsers
+
+Status
+———
+
+	* WebRTC is a part of an ongoing initiative by IETF group of W3C to define real time communication for web browsers.
+
+
+Design
+————
+
+	* The major components of WebRTC are 
+
+		* UserMedia - the get User
+		* Peer Connection
+		* Data Channel
