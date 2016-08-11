@@ -25,3 +25,11 @@ Design
 		* UserMedia - the get User
 		* Peer Connection
 		* Data Channel
+
+Benefits
+————
+
+	* WebRTC enables real time communication such as audio, video and text between users
+	* Enables communication to users to exchange video and test messages without special applications and servers.
+	* Internet service providers can
+		* Enable users to access their VoIP service without specialized applications
